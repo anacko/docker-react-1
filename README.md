@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Dockerizing a React App (with adaptations)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
